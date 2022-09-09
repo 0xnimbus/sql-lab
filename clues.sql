@@ -64,6 +64,8 @@ SELECT * FROM city WHERE id = '211'
 --               I need a little more sunshine with my slice of life.
 --               So I'm off to add one to the population I find
 --               In a city of ninety-one thousand and now, eighty five.
+
+
 --Assuming its 91085 including her, it would have been 91084 
 SELECT * FROM city ORDER BY population ASC;
 -- She is in Santa Monica, California, USA 
